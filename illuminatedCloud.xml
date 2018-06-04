@@ -4,18 +4,20 @@
       <list>
         <IlluminatedCloudConnectionConfig>
           <option name="apiVersion" value="37.0" />
+          <option name="checkForConflicts" value="true" />
           <option name="connectionName" value="ecomm2dev" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
           <option name="password" value="dff9dfcbdfc6dfcfdfd9dfeadf9bdf98df99df9e" />
           <option name="securityToken" value="df93dfc2dff0dfcbdfcddfcfdfe1dfdcdfefdfc4dfe9dfebdfebdfcedfcfdfe5dfcddf92dfc1dfc4dfc1dfdcdff8dfdf" />
           <option name="username" value="betty.phan@sage.com.ecomm2dev" />
+          <option name="workaroundForHttp411IssueEnabled" value="true" />
         </IlluminatedCloudConnectionConfig>
       </list>
     </option>
     <option name="promptOverrideSaveAllAction" value="false" />
     <option name="selectedConnectionIndex" value="0" />
-    <option name="selectedTabIndex" value="4" />
+    <option name="selectedTabIndex" value="1" />
     <option name="validateApexOnEdit" value="true" />
     <option name="validateApexWhenLocalErrorsArePresent" value="true" />
     <option name="validateOtherMetadataOnEdit" value="true" />
