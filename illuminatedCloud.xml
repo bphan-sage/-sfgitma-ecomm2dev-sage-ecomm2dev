@@ -3,7 +3,6 @@
     <option name="connectionConfigs">
       <list>
         <IlluminatedCloudConnectionConfig>
-          <option name="apiVersion" value="37.0" />
           <option name="checkForConflicts" value="true" />
           <option name="connectionName" value="ecomm2dev" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
