@@ -7,8 +7,8 @@
           <option name="connectionName" value="ecomm2dev" />
           <option name="loginUrl" value="https://test.salesforce.com/" />
           <option name="organizationType" value="SANDBOX" />
-          <option name="password" value="dff9dfcbdfc6dfcfdfd9dfeadf9bdf98df99df9e" />
-          <option name="securityToken" value="df93dfc2dff0dfcbdfcddfcfdfe1dfdcdfefdfc4dfe9dfebdfebdfcedfcfdfe5dfcddf92dfc1dfc4dfc1dfdcdff8dfdf" />
+          <option name="password" value="dffddfcfdfc6dfc6dfe8dfcfdfc3dfc4dfcddf9bdf98df99df8e" />
+          <option name="securityToken" value="dfebdfc0dfe7dfe2dfdfdfeedffedff2dfc6dfdbdffedfc4dfcedfeddfe7dfc7dfe7df92df99dffedfc2dfd8df9adfc8" />
           <option name="username" value="betty.phan@sage.com.ecomm2dev" />
           <option name="workaroundForHttp411IssueEnabled" value="true" />
         </IlluminatedCloudConnectionConfig>
